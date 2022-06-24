@@ -362,6 +362,11 @@ section .container {
 .about-me .content p:last-child {
   margin-bottom: 0;
 }
+.about-me .content p span {
+  color: #18d26e;
+  border-bottom: 2px solid #18d26e;
+  padding-bottom: 1px;
+}
 
 /*--------------------------------------------------------------
 # Counts
